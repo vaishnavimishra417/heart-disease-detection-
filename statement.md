@@ -18,7 +18,8 @@ and maximum heart rate to classify whether a patient is likely to have
 heart disease.
 
 2. Scope of the Project
-​The scope of this project encompasses the end-to-end development of a predictive system, from data ingestion to model evaluation.
+Help patients and doctors to detect diseases rapidly and correctly 
+The scope of this project is that it will collect the data and then it will help us to detect heart disease
 ​In-Scope:
 ​Collection and preprocessing of the Heart Disease dataset (cleaning, normalization, encoding).
 ​Exploratory Data Analysis (EDA) to understand feature correlations.
