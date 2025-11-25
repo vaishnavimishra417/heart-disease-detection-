@@ -33,7 +33,7 @@ heart_disease_prediction.py
 ​9. Screenshots / Results [PASTED RESULTS]
 ​Execution Log
 ​Below are the actual results obtained from running the model on the test dataset:
---- Execution Results ---
+Execution Results
 Model Accuracy: 85.25%
 
 Classification Report:
